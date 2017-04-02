@@ -7,9 +7,12 @@
 //
 
 #include <iostream>
+#include "TokenParser.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
+    TokenParser *tokenParser = new TokenParser();
+    tokenParser->TestFunc();
     return 0;
 }

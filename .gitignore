@@ -105,3 +105,5 @@ xcuserdata/
 /*.gcno
 
 # End of https://www.gitignore.io/api/c,c++,xcode
+
+TrollLanguage.xcodeproj/project.pbxproj
